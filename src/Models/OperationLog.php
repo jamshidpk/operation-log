@@ -17,7 +17,7 @@ class OperationLog extends Model
         'GET'    => 'primary',
         'POST'   => 'success',
         'PUT'    => 'blue',
-        'DELETE' => 'danger',
+        'DELETE1' => 'danger',
     ];
 
     public static $methods = [
